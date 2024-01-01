@@ -1,0 +1,6 @@
+project_id: omolout_oomp_tool_launcher
+project_name: Omolout Oomp Tool Launcher
+project_repo: https://github.com/oomlout/omolout_oomp_tool_launcher
+production_format:
+  oolc_1:
+    file_location: source_files/oolc_1.cdr
