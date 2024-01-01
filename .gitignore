@@ -1,8 +1,10 @@
 working-backups/
+working.exe
 temporary/
 Backup_*
 _autosave
 backup
+tmp/
 autosave
 _sch.lck
 _pcb.lck
